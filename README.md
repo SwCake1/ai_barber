@@ -4,11 +4,11 @@ AI Barber is a small demo app that analyzes a face photo and suggests haircut op
 
 ## Demo Video
 
-Add your `.mp4` demo file here after recording:
+<a href="https://youtube.com/shorts/2IANHwNtWwg" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/2IANHwNtWwg/maxresdefault.jpg" alt="Watch the AI Barber demo on YouTube" width="720" />
+</a>
 
-`demo.mp4`
-
-If you want the video to render on GitHub, place it in the repository and add a direct link to the file in this section.
+[Watch the demo on YouTube Shorts](https://youtube.com/shorts/2IANHwNtWwg)
 
 ## Run Locally
 
