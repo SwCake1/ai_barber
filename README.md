@@ -10,6 +10,10 @@ AI Barber is a small demo app that analyzes a face photo and suggests haircut op
 
 [Watch the demo on YouTube Shorts](https://youtube.com/shorts/2IANHwNtWwg)
 
+Or
+
+[Run the App at Google AI Studio](https://aistudio.google.com/apps/976876f3-97fb-40de-afc7-0998a48622ac?fullscreenApplet=true)
+
 ## Run Locally
 
 Requirements:
